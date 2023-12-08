@@ -1,5 +1,4 @@
 <div align="center">
-Hi, im downfall 👋<br/><br/><br/>
 
   🛠️ Stacks 🛠️
 
