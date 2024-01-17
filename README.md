@@ -6,12 +6,15 @@
 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/unity3d-000000?style=flat-square&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>  
 
-<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
-<br/>
 ✨ Me ✨<br/><br/>
-<a href="https://blog.naver.com/downfa11"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/downfa11"/>  <a href="downfa11@naver.com"><img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=downfa11@naver.com"/>
-
+<a href="https://blog.naver.com/downfa11">
+  <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Blog Badge"/>
+</a>          <a href="mailto:namseok0920@gmail.com">
+  <img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+<br/><br/>
+Game projects using paid assets are set to private.
 <br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdownfa11&count_bg=%2379C83D&title_bg=%23555555&icon=openlayers.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
+
