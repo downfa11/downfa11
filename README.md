@@ -41,7 +41,9 @@
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F28?style=flat-square&logo=apache-kafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vault-0E3C8C?style=flat-square&logo=hashicorp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Axon%20Framework-4B0082?style=flat-square&logo=axon&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20JMeter-0A8EBA?style=flat-square&logo=apache&logoColor=white"/>
+
 </div>
 
 <div>
