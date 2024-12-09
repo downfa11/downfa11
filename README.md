@@ -1,25 +1,29 @@
-<div align="center">
-<h3 style="font-size: 2em;">✨ downfa11's Github ✨</h3>
+<h2 style="font-size: 2em;">✨ downfa11's Github ✨</h2>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdownfa11&count_bg=%2379C83D&title_bg=%23555555&icon=openlayers.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<br>
 
-<br><br><br><br>
+<table>
+<tr>
+  
+<td align="center" valign="top">
+  
+🛠️ **Language** 🛠️<br>
 
-🛠️ **Language** 🛠️
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downfa11)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
-<img src="https://img.shields.io/badge/python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%20Sharp-68217A?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-</div>
+</td>
+
+<td align="center" valign="top">
+  
+🛠️ **Stacks** 🛠️<br>
 
 <br>
 
-🛠️ **Stacks** 🛠️
-
 <div>
+  
 <img src="https://img.shields.io/badge/Spring%20Webflux-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
@@ -43,7 +47,6 @@
 <img src="https://img.shields.io/badge/Vault-0E3C8C?style=flat-square&logo=hashicorp&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Axon%20Framework-4B0082?style=flat-square&logo=axon&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20JMeter-0A8EBA?style=flat-square&logo=apache&logoColor=white"/>
-
 </div>
 
 <div>
@@ -66,12 +69,11 @@
 <br>
 
 <div>
-<img src="https://img.shields.io/badge/IOCP%20Socket-000000?style=flat-square&logo=socket&logoColor=white"/>
+<img src="https://img.shields.io/badge/IOCP%20Socket-000000?style=flat-square&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity3d-000000?style=flat-square&logo=unity&logoColor=white"/>
 </div>
 
-<br><br>
-
-
+</td>
+</tr>
+</table>
 </div>
-
