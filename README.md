@@ -2,10 +2,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdownfa11&count_bg=%2379C83D&title_bg=%23555555&icon=openlayers.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### Introduce
 
-### Objectives
-- Interested in Backend Developer position
-- Other Interest : Apache Kafka, IOCP Socket
+반갑꼬리
+
+<br>
 
 ### Experience
 - **wargame** : Realtime MOBA Project(include IOCP Server, Record statistics)
@@ -25,7 +26,7 @@
   
 
 ### Resume
-- [Kor (2025.1.21)](https://docs.google.com/document/d/1sPlbit-kI3aQPN_vqqQz1jhzeEufmfbXR9s2VtltEok/edit?usp=sharing)
+- [Kor (2025.1.21)](http://example.com)
 
 <br>
 
