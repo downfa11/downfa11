@@ -26,7 +26,7 @@
   
 
 ### Resume
-- [Kor (2025.1.21)](http://example.com)
+- [Kor (2025.1.21)](https://drive.google.com/file/d/11-TSkMdjl_9bheGn9bk2Rr7o8S0bXiFx/view?usp=sharing)
 
 <br>
 
