@@ -59,7 +59,7 @@
 <br>
 
 ### Resume
-- [Kor (2025.1.21)](https://drive.google.com/file/d/11-TSkMdjl_9bheGn9bk2Rr7o8S0bXiFx/view?usp=sharing)
+- [Kor (2025.1.24)](https://drive.google.com/file/d/1kkqYXkN1l8W43FXlxXbUGYRN1JT0Z__H/view?usp=sharing)
 
 <br>
 
