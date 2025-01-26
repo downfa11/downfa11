@@ -39,7 +39,7 @@
   
     > Solo, Software Engineer  |  Mar.2023 ~
     
-- **resistance** : Mobile Game developed to improve historical awareness at the end of the Korean Empire
+- **resistance** : Android Game Project(developed to improve historical awareness)
   
     > Solo, Software Engineer  |  Mar.2023 - Mar.2024
     
@@ -59,7 +59,7 @@
 <br>
 
 ### Resume
-- [Kor (2025.1.26)](https://drive.google.com/file/d/1YPAwQujVS0z6MrZ5j9puAD8yIOMP2A-T/view?usp=sharing)
+- [Kor (2025.1.26)](https://drive.google.com/file/d/1hxUh_g3Ob6KskFNVatLqXei_OsI13cGP/view?usp=sharing)
 
 <br>
 
