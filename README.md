@@ -35,15 +35,15 @@
 <br>
 
 ### Experience
-- **wargame** : Realtime MOBA Project(include IOCP Server, Record statistics)
+- **wargame** : Windows IOCP 게임서버를 포함한 실시간 AOS 게임 프로젝트
   
     > Solo, Software Engineer  |  Mar.2023 ~
     
-- **resistance** : Android Game Project(developed to improve historical awareness)
+- **resistance** : 20세기 한국근대사 조명을 위해 텀블벅 후원 준비하던 게임 프로젝트
   
     > Solo, Software Engineer  |  Mar.2023 - Mar.2024
     
-- **SIEMple** : SIEM Solution for Cloud Security
+- **SIEMple** : 클라우드상에서 배포된 서비스에 대한 SIEM 솔루션
   
   > Team Lead, Software Engineer  |  Apr.2024 - Nov.2024 | CERT-IS
     
@@ -59,7 +59,7 @@
 <br>
 
 ### Resume
-- [Kor (2025.1.28)](https://drive.google.com/file/d/1pzdDdyxRhzTvDt4PeD4r1a8fNsbQW65b/view?usp=sharing)
+- [Kor (2025.2.13)](https://drive.google.com/file/d/1iMdYzaRAD5VtxhMRAdgF88woR6QVD71j/view?usp=sharing)
 
 <br>
 
