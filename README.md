@@ -8,10 +8,26 @@
 
 <br>
 
+### Experience
+- **wargame** : Realtime AOS game (implement Windows IOCP Server)
+  
+    > Solo, Software Engineer | Mar.2023 ~
+    
+- **resistance** : Mobile game focused on 20th Korean modern history
+  
+    > Solo, Software Engineer | Mar.2023 - Mar.2024
+    
+- **SIEMple** : Cloud SIEM Solution
+  
+  > Team Lead, backend | Apr.2024 - Nov.2024 | CERT-IS
+    
+  - Excellence Award, Cyber Security hackathon (Korea Ministry of Science and ICT, 2024)
+
+<br>
+
 ### Stacks
 
 <div>
-  
 <img src="https://img.shields.io/badge/Spring%20Webflux-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
@@ -34,34 +50,14 @@
 
 <br>
 
-### Experience
-- **wargame** : Realtime AOS game (implement Windows IOCP Server)
-  
-    > Solo, Software Engineer | Mar.2023 ~
-    
-- **resistance** : Mobile game focused on 20th Korean modern history
-  
-    > Solo, Software Engineer | Mar.2023 - Mar.2024
-    
-- **SIEMple** : Cloud SIEM Solution
-  
-  > Team Lead, backend | Apr.2024 - Nov.2024 | CERT-IS
-    
-  - Excellence Award, Cyber Security hackathon (Korea Ministry of Science and ICT, 2024)
+### Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downfa11&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
+- [Resume (Kor, 2025.2.24)](https://drive.google.com/file/d/1kHTCHqSZ-EBFX5kfwgyo0vCDG_3gnD6S/view?usp=sharing)
 
-### Language
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downfa11)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-### Resume
-- [Kor (2025.2.24)](https://drive.google.com/file/d/1kHTCHqSZ-EBFX5kfwgyo0vCDG_3gnD6S/view?usp=sharing)
-
-<br>
 
   
 
