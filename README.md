@@ -12,18 +12,10 @@
 <br>
 
 ### Project
-- **wargame** : Realtime AOS game (implement Windows IOCP Server)
-  
-    > Solo | Mar.2023 ~
-    
-- **resistance** : Mobile game focused on 20th Korean modern history (implement Web backend)
-  
-    > Solo | Mar.2023 - Mar.2024
-    
-- **SIEMple** : Cloud SIEM Solution
-  
-  > Team Lead, backend | Apr.2024 - Nov.2024
-    
+- **wargame** : 1인 개발한 대규모 게임 서비스 (Mar.2023 ~)
+- **resistance** : 한국 근대사 인식을 개선하고자 텀블벅 후원 준비 (Mar.2023 - Mar.2024, service-downtime)   
+- **SIEMple** : 클라우드 SIEM 솔루션 (Apr.2024 - Nov.2024, dockerhub)
+  - Team Lead, backend
   - Excellence Award, Cyber Security hackathon (Korea Ministry of Science and ICT, 2024)
 
 <br>
