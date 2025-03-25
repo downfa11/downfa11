@@ -2,19 +2,22 @@
 
 ### Introduce
 
-반갑꼬리
-
-기술은 수단일뿐, 개발은 기술을 이용해서 우리 사회에 직결되는 비즈니스의 문제를 해결할 때 가장 가치있다고 생각합니다.
-
-새로운 도메인에 대한 모험을 즐기며, 언어나 플랫폼에 국한되지 않고 필요한 기술들을 빠르게 배워서 적용합니다.
+반갑꼬리. 나는 남석.
 
 
 <br>
 
 ### Project
-- **wargame** : 1인 개발한 대규모 게임 서비스 (Mar.2023 ~)
-- **resistance** : 한국 근대사 인식을 개선하고자 텀블벅 후원 준비 (Mar.2023 - Mar.2024, service-downtime)   
-- **SIEMple** : 클라우드 SIEM 솔루션 (Apr.2024 - Nov.2024, dockerhub)
+- **wargame** : 1인 개발중인 대규모 게임 서비스
+  - Mar.2023 ~
+
+ 
+- **resistance** : 한국 근대사 인식을 개선하고자 텀블벅 후원 준비 (service-downtime)
+  - Mar.2023 - Mar.2024
+ 
+
+- **SIEMple** : 클라우드 SIEM 솔루션 (dockerhub)
+  - Apr.2024 - Nov.2024
   - Team Lead, backend
   - Excellence Award, Cyber Security hackathon (Korea Ministry of Science and ICT, 2024)
 
