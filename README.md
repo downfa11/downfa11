@@ -1,27 +1,35 @@
 ## downfa11's Github
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdownfa11&count_bg=%2379C83D&title_bg=%23555555&icon=openlayers.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ### Introduce
 
 반갑꼬리
 
+기술은 수단일뿐, 개발은 기술을 이용해서 우리 사회에 직결되는 비즈니스의 문제를 해결할 때 가장 가치있다고 생각합니다.
+
+새로운 도메인에 대한 모험을 즐기며, 언어나 플랫폼에 국한되지 않고 필요한 기술들을 빠르게 배워서 적용합니다.
+
+
 <br>
 
-### Experience
+### Project
 - **wargame** : Realtime AOS game (implement Windows IOCP Server)
   
-    > Solo, Software Engineer | Mar.2023 ~
+    > Solo | Mar.2023 ~
     
-- **resistance** : Mobile game focused on 20th Korean modern history
+- **resistance** : Mobile game focused on 20th Korean modern history (implement Web backend)
   
-    > Solo, Software Engineer | Mar.2023 - Mar.2024
+    > Solo | Mar.2023 - Mar.2024
     
 - **SIEMple** : Cloud SIEM Solution
   
-  > Team Lead, backend | Apr.2024 - Nov.2024 | CERT-IS
+  > Team Lead, backend | Apr.2024 - Nov.2024
     
   - Excellence Award, Cyber Security hackathon (Korea Ministry of Science and ICT, 2024)
+
+<br>
+
+### Contribute
+- [morganstanley/modern-cpp-kafka](https://github.com/morganstanley/modern-cpp-kafka/pull/241)
 
 <br>
 
@@ -52,14 +60,13 @@
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downfa11&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downfa11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 
-- [Resume (Kor, 2025.2.24)](https://drive.google.com/file/d/1kHTCHqSZ-EBFX5kfwgyo0vCDG_3gnD6S/view?usp=sharing)
+- Resume 개선중
 
-
-  
 
 </br>
 
