@@ -61,7 +61,7 @@
 
 <br>
 
-- [Resume(04.30)](https://drive.google.com/file/d/1skwB6BlM9PxsJEqjATmauH3LDj7Onrw9/view?usp=drive_link) 
+- [Resume(04.30)](https://drive.google.com/file/d/1ag9sYQAvms1YUE1owgCsKte9Q1s1D1Q_) 
 
 
 </br>
