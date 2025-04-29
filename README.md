@@ -11,10 +11,11 @@
 - **wargame** : 1인 개발중인 대규모 게임 서비스
   - Mar.2023 ~
 
- 
+- **Hack-Playground** : VM 기반 서비스의 비용 부담을 해결해서 국내 정보보안 교육의 폭을 넓히고자 시작한 문제풀이 서비스
+  - Mar.2025 ~ May.2025
+  
 - **resistance** : 한국 근대사 인식을 개선하고자 텀블벅 후원 준비 (service-downtime)
   - Mar.2023 - Mar.2024
- 
 
 - **SIEMple** : 클라우드 SIEM 솔루션 (dockerhub)
   - Apr.2024 - Nov.2024
@@ -60,7 +61,7 @@
 
 <br>
 
-- Resume 개선중
+- [Resume(04.30)](https://drive.google.com/file/d/1skwB6BlM9PxsJEqjATmauH3LDj7Onrw9/view?usp=drive_link) 
 
 
 </br>
