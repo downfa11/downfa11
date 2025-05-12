@@ -4,7 +4,6 @@
 
 반갑꼬리
 
-
 <br>
 
 ### Project
@@ -23,8 +22,28 @@
 
 <br>
 
-### Contribute
-- [morganstanley/modern-cpp-kafka](https://github.com/morganstanley/modern-cpp-kafka/pull/241)
+### Stacks
+
+<div>
+<img src="https://img.shields.io/badge/Spring%20Webflux-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white"/>
+</div>
+
+<div>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F28?style=flat-square&logo=apache-kafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
+</div>
+  
+<div>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/IOCP%20Socket-000000?style=flat-square&logo=windows&logoColor=white"/>
+</div>
 
 <br>
 
@@ -37,18 +56,15 @@
 </a>
 
 <br>
+<br>
+
+
+### Contribute
+- [morganstanley/modern-cpp-kafka](https://github.com/morganstanley/modern-cpp-kafka/pull/241) : Moden C++ migration opensource
 
 <br>
 
-### Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downfa11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+### Resume
+- [resume(05.02)](https://drive.google.com/file/d/1zBUpcKWOgHJD90U2ePtdNYVp2PWgB105) 
 
 <br>
-
-- [Resume(04.30)](https://drive.google.com/file/d/1zBUpcKWOgHJD90U2ePtdNYVp2PWgB105) 
-
-
-<br>
-
