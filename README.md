@@ -2,7 +2,7 @@
 
 ### Introduce
 
-반갑꼬리. 나는 남석.
+반갑꼬리
 
 
 <br>
@@ -28,28 +28,15 @@
 
 <br>
 
-### Stacks
+### Certified
+- SQL Developer
+- AWS Certified Solutions Architect – Associate(SAA-C03) 
 
-<div>
-<img src="https://img.shields.io/badge/Spring%20Webflux-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white"/>
-</div>
+<a href="https://www.credly.com/badges/2724a96e-1c69-473b-8be4-9f99de6f113b/public_url">
+  <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="80" height="80" alt="Badge"/>
+</a>
 
-<div>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F28?style=flat-square&logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
-</div>
-  
-<div>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/IOCP%20Socket-000000?style=flat-square&logo=windows&logoColor=white"/>
-</div>
+<br>
 
 <br>
 
@@ -63,5 +50,5 @@
 - [Resume(04.30)](https://drive.google.com/file/d/1zBUpcKWOgHJD90U2ePtdNYVp2PWgB105) 
 
 
-</br>
+<br>
 
