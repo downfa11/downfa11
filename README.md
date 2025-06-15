@@ -50,7 +50,7 @@
 ### Certified
 - SQL Developer
 - AWS Certified Solutions Architect – Associate(SAA-C03)
-- 정보처리기사# downfa11's Github
+- 정보처리기사
 
 ### Introduce
 
