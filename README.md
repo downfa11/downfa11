@@ -66,6 +66,6 @@
 <br>
 
 ### Resume
-- [resume(06.15)](https://drive.google.com/file/d/1F6cuBARYlAn2xegmbagY183iOJvTlV4P) 
+- [resume(06.16)](https://drive.google.com/file/d/1sfch2EZWUQo12woM-Bu2dEqbvpnWnah6) 
 
 <br>
