@@ -5,7 +5,7 @@
 <br>
 
 ### Project
-- **wargame** : Windows IOCP 게임서버를 포함한 MSA 구조의 대규모 게임 프로젝트
+- **[wargame](https://wargamegg.vercel.app)** : Windows IOCP 게임서버를 포함한 MSA 구조의 대규모 게임 프로젝트
   - Solo, Mar.2023 ~
 
 - **[Hack-Playground](https://hpground.xyz)** : VM 기반 서비스의 비용 부담을 해결해서 국내 정보보안 교육의 폭을 넓히고자 시작한 문제풀이 서비스
