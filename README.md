@@ -9,7 +9,7 @@
   - Solo, Mar.2023 ~
 
 - **[Hack-Playground](https://hpground.xyz)** : VM 기반 서비스의 비용 부담을 해결해서 국내 정보보안 교육의 폭을 넓히고자 시작한 문제풀이 서비스
-  - Team Lead, backend, Mar.2025 ~ May.2025
+  - Team Lead, fullstack, Mar.2025 ~ May.2025
   
 - **resistance** : 한국 근대사 인식을 개선하고자 텀블벅 후원 준비 [서비스 중단]
   - Solo, Mar.2023 - Mar.2024
@@ -43,6 +43,6 @@
 <br>
 
 ### Resume
-- [resume(06.20)](https://drive.google.com/file/d/12e10jAHLsbIk9e1VXESOa5n1Svhd20D_) 
+- [resume(06.20)](https://drive.google.com/file/d/1ddnnrQDJDfcVqn_1EqScYkNwGgSKcroy) 
 
 <br>
