@@ -11,7 +11,7 @@
 - **[Hack-Playground](https://hpground.xyz)** : VM 기반 서비스의 비용 부담을 해결해서 국내 정보보안 교육의 폭을 넓히고자 시작한 문제풀이 서비스
   - Team Lead, fullstack, Mar.2025 ~ May.2025
   
-- **resistance** : 한국 근대사 인식을 개선하고자 텀블벅 후원 준비 [서비스 중단]
+- **[resistance](https://github.com/downfa11/resistance-backend)** : 한국 근대사 인식을 개선하고자 텀블벅 후원 준비 [서비스 중단]
   - Solo, Mar.2023 - Mar.2024
 
 - **[SIEMple](https://hub.docker.com/r/downfa11/siemple)** : 클라우드 SIEM 솔루션 
