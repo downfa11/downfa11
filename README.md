@@ -5,17 +5,17 @@
 <br>
 
 ### Project
-- **[wargame](https://wargamegg.vercel.app)** : Windows IOCP 서버를 포함한 게임 프로젝트
-  - Solo, Mar.2023 ~
+- **[wargame](https://wargamegg.vercel.app)** : Windows IOCP 서버를 포함한 게임 프로젝트 (링크 접속시 전적 사이트로 이동합니다)
+  - Solo, (Mar.2023 ~)
 
 - **[Hack-Playground](https://hpground.xyz)** : VM 기반 서비스의 비용 부담을 해결해서 국내 정보보안 교육의 폭을 넓히고자 시작한 문제풀이 서비스
-  - Team Lead, fullstack, Mar.2025 ~ May.2025
+  - Team Lead, Fullstack, (Mar.2025 ~ May.2025)
   
 - **[resistance](https://github.com/downfa11/resistance-backend)** : 한국근대사 인식 개선을 위한 게임 서비스, [텀블벅 후원 중단]
-  - Solo, Mar.2023 - Mar.2024
+  - Solo, (Mar.2023 - Mar.2024)
 
 - **[SIEMple](https://hub.docker.com/r/downfa11/siemple)** : 클라우드 SIEM 솔루션 
-  - Team Lead, backend, Apr.2024 - Nov.2024
+  - Team Lead, backend, (Apr.2024 - Nov.2024)
   - Excellence Award, Cyber Security hackathon (Korea Ministry of Science and ICT, 2024)
 
 ### Certified
