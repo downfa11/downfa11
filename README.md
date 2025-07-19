@@ -5,31 +5,18 @@
 <br>
 
 ### Project
-- **[wargame](https://wargamegg.vercel.app)** : Windows IOCP 게임서버를 포함한 MSA 구조의 대규모 게임 프로젝트
+- **[wargame](https://wargamegg.vercel.app)** : Windows IOCP 서버를 포함한 게임 프로젝트
   - Solo, Mar.2023 ~
 
 - **[Hack-Playground](https://hpground.xyz)** : VM 기반 서비스의 비용 부담을 해결해서 국내 정보보안 교육의 폭을 넓히고자 시작한 문제풀이 서비스
   - Team Lead, fullstack, Mar.2025 ~ May.2025
   
-- **[resistance](https://github.com/downfa11/resistance-backend)** : 한국 근대사 인식을 개선하고자 텀블벅 후원 준비 [서비스 중단]
+- **[resistance](https://github.com/downfa11/resistance-backend)** : 한국근대사 인식 개선을 위한 게임 서비스, [텀블벅 후원 중단]
   - Solo, Mar.2023 - Mar.2024
 
 - **[SIEMple](https://hub.docker.com/r/downfa11/siemple)** : 클라우드 SIEM 솔루션 
   - Team Lead, backend, Apr.2024 - Nov.2024
   - Excellence Award, Cyber Security hackathon (Korea Ministry of Science and ICT, 2024)
-
-
-### Skills
-<div>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F28?style=flat-square&logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-</div>
-
-### Contribute
-- [morganstanley/modern-cpp-kafka](https://github.com/morganstanley/modern-cpp-kafka/pull/241) : Moden C++ migration opensource
 
 ### Certified
 - SQL Developer
