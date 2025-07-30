@@ -30,6 +30,6 @@
 <br>
 
 ### Resume
-- [resume(07.27)](https://drive.google.com/file/d/1APK9E88JQ6c-J_aenPH1Jmu6oZBTsqrg)
+- [resume(07.30)](https://drive.google.com/file/d/13z8aJbBgImvuaV9OzM0_irbO4_CFkzHA)
 
 <br>
