@@ -30,6 +30,6 @@
 <br>
 
 ### Resume
-- [resume(07.30)](https://drive.google.com/file/d/13z8aJbBgImvuaV9OzM0_irbO4_CFkzHA)
+- [resume(off)]() 
 
 <br>
