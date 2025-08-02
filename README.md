@@ -18,6 +18,9 @@
   - Team Lead, backend, (Apr.2024 - Nov.2024)
   - Excellence Award, Cyber Security hackathon (Korea Ministry of Science and ICT, 2024)
 
+### Language
+- Java, C++, Go
+
 ### Certified
 - SQL Developer
 - AWS Certified Solutions Architect – Associate(SAA-C03)
