@@ -33,6 +33,6 @@
 <br>
 
 ### Resume
-- [resume(off)]() 
+- [resume(08.12)](https://drive.google.com/file/d/1-BbC8AycmGQLTXHllEF79on3S_JoczmL) 
 
 <br>
