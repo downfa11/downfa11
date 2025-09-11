@@ -3,14 +3,11 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=downfa11&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/downfa11?pet-id=753868552810631596"
-    width="1200"
-    height="120"
+    width="860"
+    height="160"
   />
 </a>
 
-<br>
-
-반갑꼬리
 
 <br>
 
