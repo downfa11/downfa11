@@ -11,7 +11,7 @@
 
 <br>
 
-**Resume**: [(08.12)](https://drive.google.com/file/d/1-BbC8AycmGQLTXHllEF79on3S_JoczmL)
+**Resume**: [(09.13)](https://drive.google.com/file/d/1npFXC7G7ZPOw-rlx5pMInj8w4gX-yGNz)
 
 **Award**: Excellence Award, Cyber Security hackathon (Korea Ministry of Science and ICT, 2024)
 
