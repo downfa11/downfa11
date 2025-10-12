@@ -1,13 +1,6 @@
 ## Introduce
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=downfa11&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/downfa11?pet-id=753868552810631596"
-    width="860"
-    height="160"
-  />
-</a>
-
+<img src="https://render.gitanimals.org/lines/downfa11?pet-id=753868552810631596" alt="gitanimals" style="width=auto; height=160%;"/>
 
 <br>
 
@@ -20,8 +13,22 @@
   - AWS Certified Solutions Architect – Associate(SAA-C03)
   - Engineer Information Processing
 
+<table>
+<tr>
+<td width="50%">
+
 **Contributions**:
-  - [argo-cd](https://github.com/argoproj/argo-cd/issues?q=is%3Aissue%20is%3Apr%20author%3Adownfa11)
-  - [argo-workflow](https://github.com/argoproj/argo-workflows/pulls?q=is%3Apr+author%3Adownfa11)
-  - [modern-cpp-kafka](https://github.com/morganstanley/modern-cpp-kafka/pulls?q=is%3Apr+author%3Adownfa11)
+- [argo-cd](https://github.com/argoproj/argo-cd/issues?q=is%3Aissue%20is%3Apr%20author%3Adownfa11)
+- [argo-workflow](https://github.com/argoproj/argo-workflows/pulls?q=is%3Apr+author%3Adownfa11)
+- [modern-cpp-kafka](https://github.com/morganstanley/modern-cpp-kafka/pulls?q=is%3Apr+author%3Adownfa11)
+
+</td>
+<td width="50%">
+
+<img src="https://devstats.me/?username=downfa11" alt="DevStats Card" width="100%">
+
+</td>
+</tr>
+</table>
+
 <br>
