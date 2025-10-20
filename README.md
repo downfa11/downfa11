@@ -9,29 +9,17 @@
 
 **Award**: Excellence Award, Cyber Security hackathon (Korea Ministry of Science and ICT, 2024)
 
-**Resume**: [(09.13)](https://drive.google.com/file/d/1npFXC7G7ZPOw-rlx5pMInj8w4gX-yGNz)
-
-<table>
-<tr>
-<td width="52%">
-
 **Certified**: 
   - SQL Developer
   - AWS Certified Solutions Architect – Associate
   - Engineer Information Processing
-
-</td>
-
-<td width="48%">
 
 **Contributions**:
 - [modern-cpp-kafka](https://github.com/morganstanley/modern-cpp-kafka/pulls?q=is%3Apr+author%3Adownfa11)
 - [argo-cd](https://github.com/argoproj/argo-cd/issues?q=is%3Aissue%20is%3Apr%20author%3Adownfa11), [argo-workflow](https://github.com/argoproj/argo-workflows/pulls?q=is%3Apr+author%3Adownfa11), [argo-rollouts](https://github.com/argoproj/argo-rollouts/issues?q=is%3Aissue%20is%3Apr%20author%3Adownfa11), [argo-helm](https://github.com/argoproj/argo-helm/issues?q=is%3Aissue%20is%3Apr%20author%3Adownfa11)
 - [yorkie](https://github.com/yorkie-team/yorkie/issues?q=is%3Aissue%20is%3Apr%20author%3Adownfa11)
 
-</td>
-</tr>
-</table>
+**Resume**: [(09.13)](https://drive.google.com/file/d/1npFXC7G7ZPOw-rlx5pMInj8w4gX-yGNz)
 
 <br>
 
