@@ -1,7 +1,5 @@
 ## Introduce
 
-<img src="https://render.gitanimals.org/lines/downfa11?pet-id=753868552810631596" alt="gitanimals" style="width=auto; height=160%;"/>
-
 <br>
 
 반갑꼬리
