@@ -5,7 +5,9 @@
 반갑꼬리
 
 
-**Award**: Excellence Award, Cyber Security hackathon (Korea Ministry of Science and ICT, 2024)
+**Award**: 
+  - K-Digital Challenge – NET Challenge Camp Season 12, Silver Award (Hosted by Korea Intelligent Information Society Agency, 2025)
+  - 2024 Cybersecurity Hackathon, Excellence Award (Hosted by Busan IT Industry Promotion Agency, 2024)
 
 **Certified**: 
   - SQL Developer
