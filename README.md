@@ -7,5 +7,4 @@
 - [kubernetes/website](https://github.com/kubernetes/website/issues?q=is%3Aissue%20is%3Apr%20author%3Adownfa11), [yorkie](https://github.com/yorkie-team/yorkie/issues?q=is%3Aissue%20is%3Apr%20author%3Adownfa11), [modern-cpp-kafka](https://github.com/morganstanley/modern-cpp-kafka/pulls?q=is%3Apr+author%3Adownfa11)
 - [cursus](https://github.com/downfa11-org/cursus), [tabellarius](https://github.com/downfa11-org/tabellarius)
 
-**resume**:
-- [(26.01.17)](https://drive.google.com/file/d/1PNkeCQEe-3QaXspAf6TCH-YZ1GX1MNVT)
+**resume**: [(26.01.17)](https://drive.google.com/file/d/1PNkeCQEe-3QaXspAf6TCH-YZ1GX1MNVT)
