@@ -14,7 +14,7 @@
 **Certified**: 
   - SQL Developer
   - AWS Certified Solutions Architect – Associate(SAA-C03)
-  - Engineer Information Processing4
+  - Engineer Information Processing
 
 <a href="https://www.credly.com/badges/2724a96e-1c69-473b-8be4-9f99de6f113b/public_url">
   <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="80" height="80" alt="Badge"/>
