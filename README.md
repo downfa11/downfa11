@@ -24,3 +24,11 @@
 <a href="https://www.credly.com/badges/2724a96e-1c69-473b-8be4-9f99de6f113b/public_url">
   <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="80" height="80" alt="Badge"/>
 </a>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/downfa11/downfa11/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/downfa11/downfa11/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/downfa11/downfa11/blob/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
