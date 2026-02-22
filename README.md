@@ -3,6 +3,7 @@
 <br>
 
 **Experiences**:
+- Bachelor of Science in Computer Science (Mar 2020 – Feb 2026)
 - ABLY Corp. (Feb 2026 – Present)
 
 **Contributions**: 
