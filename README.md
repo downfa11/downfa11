@@ -3,7 +3,7 @@
 <br>
  
 **Experiences**:
-- Member @ArgoProj & @Kubernetes
+- Member @ArgoProj
 - Maintainer & Owner @cursus-io
 - Backend Developer (present)
 
