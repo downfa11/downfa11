@@ -3,8 +3,8 @@
 <br>
  
 **Experiences**:
-- Member @ArgoProj
 - Maintainer & Owner @cursus-io
+- Member @ArgoProj
 - Backend Developer (present)
 
 **Contributions**: 
