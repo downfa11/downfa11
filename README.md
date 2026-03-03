@@ -4,7 +4,7 @@
  
 **Experiences**:
 - Maintainer & Owner @cursus-io
-- Member @ArgoProj
+- Member @ArgoProj, @Kubernetes
 - Backend Developer (present)
 
 **Contributions**: 
