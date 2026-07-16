@@ -9,8 +9,6 @@
 
 **Contributions**: 
 - [cursus](https://github.com/cursus-io/cursus)
-- [tabellarius](https://github.com/cursus-io/tabellarius)
-- [concilium](https://github.com/cursus-io/concilium)
 - [argo-cd](https://github.com/argoproj/argo-cd/issues?q=is%3Aissue%20is%3Apr%20author%3Adownfa11)
 - [argo-workflow](https://github.com/argoproj/argo-workflows/pulls?q=is%3Apr+author%3Adownfa11)
 - [argo-rollouts](https://github.com/argoproj/argo-rollouts/issues?q=is%3Aissue%20is%3Apr%20author%3Adownfa11)
